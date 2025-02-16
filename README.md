@@ -1,19 +1,19 @@
 <img align=right width="168" src="docs/gouef_logo.png">
 
-# github-lib-template
+# translator
 Github template for new libraries
 
-[![Static Badge](https://img.shields.io/badge/Github-gouef%2Fgithub--lib--template-blue?style=for-the-badge&logo=github&link=github.com%2Fgouef%2Fgithub-lib-template)](https://github.com/gouef/github-lib-template)
+[![Static Badge](https://img.shields.io/badge/Github-gouef%2Ftranslator-blue?style=for-the-badge&logo=github&link=github.com%2Fgouef%2Ftranslator)](https://github.com/gouef/translator)
 
-[![GoDoc](https://pkg.go.dev/badge/github.com/gouef/github-lib-template.svg)](https://pkg.go.dev/github.com/gouef/github-lib-template)
-[![GitHub stars](https://img.shields.io/github/stars/gouef/github-lib-template?style=social)](https://github.com/gouef/github-lib-template/stargazers)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gouef/github-lib-template)](https://goreportcard.com/report/github.com/gouef/github-lib-template)
-[![codecov](https://codecov.io/github/gouef/github-lib-template/branch/main/graph/badge.svg?token=YUG8EMH6Q8)](https://codecov.io/github/gouef/github-lib-template)
+[![GoDoc](https://pkg.go.dev/badge/github.com/gouef/translator.svg)](https://pkg.go.dev/github.com/gouef/translator)
+[![GitHub stars](https://img.shields.io/github/stars/gouef/translator?style=social)](https://github.com/gouef/translator/stargazers)
+[![Go Report Card](https://goreportcard.com/badge/github.com/gouef/translator)](https://goreportcard.com/report/github.com/gouef/translator)
+[![codecov](https://codecov.io/github/gouef/translator/branch/main/graph/badge.svg?token=YUG8EMH6Q8)](https://codecov.io/github/gouef/translator)
 
 ## Versions
-![Stable Version](https://img.shields.io/github/v/release/gouef/github-lib-template?label=Stable&labelColor=green)
-![GitHub Release](https://img.shields.io/github/v/release/gouef/github-lib-template?label=RC&include_prereleases&filter=*rc*&logoSize=diago)
-![GitHub Release](https://img.shields.io/github/v/release/gouef/github-lib-template?label=Beta&include_prereleases&filter=*beta*&logoSize=diago)
+![Stable Version](https://img.shields.io/github/v/release/gouef/translator?label=Stable&labelColor=green)
+![GitHub Release](https://img.shields.io/github/v/release/gouef/translator?label=RC&include_prereleases&filter=*rc*&logoSize=diago)
+![GitHub Release](https://img.shields.io/github/v/release/gouef/translator?label=Beta&include_prereleases&filter=*beta*&logoSize=diago)
 
 
 ## Introduction
