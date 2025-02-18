@@ -1,0 +1,3 @@
+hello: "Ahoj"
+errors:
+  hello: "Error ahoj"
